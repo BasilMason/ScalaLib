@@ -1,0 +1,2 @@
+# ScalaLib
+My Scala library
